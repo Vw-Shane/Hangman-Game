@@ -1,0 +1,59 @@
+.Top {
+    background-color: blue;
+    height: 80px;
+    width: 100%
+}
+
+h1 {}
+
+.CarPics {
+    background-color: grey;
+    float: left;
+    width: 50%;
+
+}
+
+.left {
+    background-color: grey;
+    float: left;
+    width: 35%;
+    height: 50%;
+}
+
+
+.right {
+    background-color: red;
+    float: right;
+    width: 15%;
+}
+
+.win {
+    background-color: green;
+    float: left;
+    width: 50%;
+}
+
+.lose {
+    background-color: grey;
+    float: right;
+    width: 50%;
+}
+
+.Middle {
+   margin:50px;
+    width: 100%
+    height:99px;
+}
+
+.Mleft {
+    
+}
+
+.MidMiddle {
+    background-color: red;
+    
+}
+
+.Midright {
+    background-color: green;
+}

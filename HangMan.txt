@@ -1,1 +1,11 @@
-		
+“Press any Key to get Started”
+	display a box where hangman guy appears and an other box with ______ one for each letter to be guessed. Above that box a box where the letters guessed will be logged with a number 6 that goes down with every key input.
+
+
+
+
+
+
+
+
+Ideas : theme is cars display image of the car that needs to be guessed 
